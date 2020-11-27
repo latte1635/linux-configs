@@ -1,8 +1,8 @@
 [options]
-font = Monospace 9
-font = xos4 Terminus 16px
-font = Droid Sans Mono 16
-font = Ubuntu Mono Light 20
+#font = Monospace 9
+#font = xos4 Terminus 16px
+font = Droid Sans Mono 20
+#font = Ubuntu Mono Light 20
 
 
 [colors]
